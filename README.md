@@ -2,7 +2,7 @@
 - 👋 Olá, me chamo Jefferson;
 - 👀 Estudo programação desde 2022;
 - 🌱 Estou aprendendo as tecnologias referentes a desenvolvimento Front-end,
-- 🌱 H1ML5, CSS, JavaScript e Portugol.
+- 🌱 HTML5, CSS, JavaScript e Portugol.
 - 💞️ Estou disponível para estágios. Busco oportunidades para adquirir experiência e aprender como se trabalha na prática.
 - 📫 LinkedIn e Instagram disponíveis abaixo. <br>
 
