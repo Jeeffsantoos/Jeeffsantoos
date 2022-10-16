@@ -1,9 +1,14 @@
 # 💫 About Me:
-- 👋 Olá, me chamo Jefferson;<br>- 👀 Estudo programação desde 2022;<br>- 🌱 Estou aprendendo as tecnologias referentes a desenvolvimento Front-end,<br>- 🌱 HTML5, CSS, JavaScript e Portugol.<br>- 💞️ Estou disponível para estágios. Busco oportunidades para adquirir experiência e aprender como se trabalha na prática.<br>- 📫 LinkedIn e Instagram disponíveis abaixo. <br>
+- 👋 Olá, me chamo Jefferson;
+- 👀 Estudo programação desde 2022;
+- 🌱 Estou aprendendo as tecnologias referentes a desenvolvimento Front-end,
+- 🌱 H1ML5, CSS, JavaScript e Portugol.
+- 💞️ Estou disponível para estágios. Busco oportunidades para adquirir experiência e aprender como se trabalha na prática.
+- 📫 LinkedIn e Instagram disponíveis abaixo. <br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_jeeffsantoos/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeeffsantoos/) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_jeeffsantoos/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeeffsantoos/) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
