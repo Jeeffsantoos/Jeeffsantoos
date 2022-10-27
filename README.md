@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jeeffsantoos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeeffsantoos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeffsantoos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=jeeffsantoos&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jeeffsantoos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
