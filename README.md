@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hello, My name is Jefferson;
+- 👋 Hello, my name is Jefferson;
 - 👀 I'am a Front-End Developer since 2022;
 - 🌱 HTML5, CSS, JavaScript, Git, GitHub, ReactJS e algorithm.
 - 💞️ I'am available for jobs. 
