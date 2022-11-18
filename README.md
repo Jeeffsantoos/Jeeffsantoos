@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hello, my name is Jefferson;
 - 👀 I'am a Front-End Developer since 2022;
-- 🌱 HTML5, CSS, JavaScript, Git, GitHub, ReactJS e algorithm.
+- 🌱 HTML5, CSS, JavaScript, Git, GitHub, ReactJS e Algorithm.
 - 💞️ I'am available for jobs. 
 - 📫 LinkedIn e Instagram are available below. <br>
 
