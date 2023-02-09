@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 - 👋 Olá, meu nome é Jefferson;
 - 👀 Sou Desenvolvedor Front-End desde 2022;
-- 🌱 HTML5, CSS, JavaScript, Git, GitHub, ReactJS e Algorithm.
+- 🌱 HTML5, CSS, JavaScript, Git, GitHub e ReactJS.
 - 💞️ Estou disponível para trabalhos. 
 - 📫 LinkedIn e Instagram estão disponíveis abaixo. <br>
 
@@ -22,7 +22,7 @@
 ## 🏆 Troféus do GitHub:
 ![](https://github-profile-trophy.vercel.app/?username=Jeeffsantoos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Citação de desenvolvedores:
+### ✍️ Citações de desenvolvedores:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
