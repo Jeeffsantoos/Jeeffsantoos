@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 - 👋 Olá, meu nome é Jefferson;
 - 👀 Sou Desenvolvedor Front-End desde 2022;
-- 🌱 HTML5, CSS, JavaScript, ReactJS, Git, GitHub, MySQL, SQL, REST e Node.Js. 
+- 🌱 HTML5, CSS, JavaScript, ReactJS, Git, GitHub, MySQL, SQL, REST, Node.Js e Express.Js. 
 - 💞️ Estou disponível para trabalhos. 
 - 📫 LinkedIn e Instagram estão disponíveis abaixo. <br>
 
