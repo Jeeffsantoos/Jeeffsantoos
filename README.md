@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
 - 👋 Olá, meu nome é Jefferson;
-- 👀 Sou Desenvolvedor Front-End desde 2022;
-- 🌱 HTML5, CSS, JavaScript, Python, ReactJS, Git, GitHub, MySQL, SQL, REST, Node.Js e Express.Js;
-- 🌱 Postman;
-- 💞️ Estou disponível para trabalhos;
+- 👀 Sou Desenvolvedor Desenvolvedor FullStack desde 2022;
+- 🌱 HTML5, CSS, JavaScript, TypeScript, Python, ReactJS, Git, GitHub, MySQL, SQL, REST, Node.Js e Express.Js;
+- 🌱 Postman e Insomnia;
+- 💞️ Atualmente atuando como FullStack Developer no Centro de Computação da Aeronáutica;
 - 📫 LinkedIn e Instagram estão disponíveis abaixo. <br>
 
 
